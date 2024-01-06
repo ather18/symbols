@@ -1,0 +1,4 @@
+0 None
+1 Peace
+2 Thumbs up
+3 Super
